@@ -1,4 +1,4 @@
-# Scramble Text Animation With React and Framer Motion | 2025 Coding Tutorial
+# Scramble Text Animation With React and Framer Motion | IDLECODERS
 
 #### In this step-by-step guide, you'll learn how to create scramble text animation effect
 
